@@ -16,4 +16,4 @@ https://uuware.github.io/lupine.js/en/articles/introduce-lupine.press
 
 ---
 
-Powered by [Lupine.js](https://github.com/uuware/lupine.js). If you find this template helpful, a star on GitHub is always appreciated ⭐️
+Powered by [Lupine.js](https://github.com/uuware/lupine.js), If you find it helpful, a star on [GitHub](https://github.com/uuware/lupine.js) is always appreciated ⭐️
