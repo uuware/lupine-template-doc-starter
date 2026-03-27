@@ -11,8 +11,8 @@
       "outdir": "/"
     },
     {
-      "index": "web/lupine-template-doc-starter/index.tsx",
-      "html": "web/lupine-template-doc-starter/index.html",
+      "index": "web/src/lupine-template-doc-starter/index.tsx",
+      "html": "web/src/lupine-template-doc-starter/index.html",
       "outdir": "/lupine-template-doc-starter"
     }
   ],
@@ -23,6 +23,11 @@
       "type": "web",
       "from": "web/assets",
       "to": "assets"
+    },
+    {
+      "type": "web",
+      "from": "web/src/lupine-template-doc-starter/404.html",
+      "to": "lupine-template-doc-starter/404.html"
     },
     {
       "type": "data",
