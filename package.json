@@ -27,10 +27,10 @@
     "cp-docs": "node dev/cp-folder.js dist/server_root/lupine-template-doc-starter_web/lupine-template-doc-starter docs"
   },
   "dependencies": {
-    "lupine.api": "^1.1.77",
-    "lupine.components": "^1.1.21",
-    "lupine.web": "^1.1.13",
-    "lupine.press": "^1.0.8"
+    "lupine.api": "^1.1.83",
+    "lupine.components": "^1.1.38",
+    "lupine.web": "^1.1.17",
+    "lupine.press": "^1.0.12"
   },
   "devDependencies": {
     "esbuild": "^0.24.2",
